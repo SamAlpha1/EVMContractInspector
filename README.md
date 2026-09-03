@@ -46,4 +46,10 @@ python inspect_contract.py --address 0xCONTRACT_ADDRESS
 
 Proxy detection is heuristic and read-only. A positive result indicates a common proxy pattern or populated implementation slot; it is not a full security audit.
 
-Maintained by **SamAlpha1** · X: **@samalpha_**
+---
+
+## More from SamAlpha1
+
+Before running unfamiliar GitHub or Web3 code, scan the account and its public repositories with **[GitHub Trust Auditor](https://samalpha1.github.io/GitHubTrustAuditor/)**.
+
+Maintained by **[SamAlpha1](https://github.com/SamAlpha1)** · Follow **[@samalpha_ on X](https://x.com/samalpha_)**
